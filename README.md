@@ -145,15 +145,14 @@ sequenceDiagram
 
 ## 🎉 Results Preview
 
-```
-![Opening UI](results/opening UI.png)
+![Opening UI](results/opening%20ui.png)
 
-![Search by Name](results/search by name.png)
+![Search by Name](results/search%20by%20name.png)
 
-![Search Result](results/search result.png)
+![Search Result](results/search%20result.png)
 
-![Search Result 2](results/search result 2.png)
-```
+![Search Result 2](results/search%20result%202.png)
+
 ---
 
 ## 🛤️ Future Improvements
