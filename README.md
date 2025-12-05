@@ -1,10 +1,19 @@
 # 🖼️ Image Similarity Search – Minimal MVP Prototype
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
-![Flask](https://img.shields.io/badge/Made%20with-Flask-brightgreen.svg)
-![Offline](https://img.shields.io/badge/Offline-%E2%9C%85-success)
-![Embeddings](https://img.shields.io/badge/Embeddings-MobileNetV2-orange)
+<p align="center">
+  <a href="https://github.com/yourusername/reverse-image-search">
+    <img alt="Python" src="https://img.shields.io/badge/python-3.7%2B-3776AB.svg?logo=python&logoColor=white" />
+  </a>
+  <a href="https://palletsprojects.com/p/flask/">
+    <img alt="Flask" src="https://img.shields.io/badge/flask-web%20framework-000000.svg?logo=flask&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourusername/reverse-image-search/blob/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg?logo=open-source-initiative&logoColor=white" />
+  </a>
+  <img alt="Offline" src="https://img.shields.io/badge/100%25-offline-success?logo=cloud-offline" />
+  <img alt="Embeddings" src="https://img.shields.io/badge/embeddings-MobileNetV2-orange?logo=tensorflow&logoColor=white" />
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen?logo=git" />
+</p>
 
 ---
 
