@@ -146,10 +146,10 @@ sequenceDiagram
 ## 🎉 Results Preview
 
 <p align="center">
-  <img src="results/opening%20ui.png" width="400"><br>
-  <img src="results/search%20result.png" width="400"><br>
-  <img src="results/search%20result%202.png" width="400"><br>
-  <img src="results/search%20by%20name.png" width="400">
+  <img src="results/opening%20ui.png" width="700"><br>
+  <img src="results/search%20result.png" width="700"><br>
+  <img src="results/search%20result%202.png" width="700"><br>
+  <img src="results/search%20by%20name.png" width="700">
 </p>
 
 ---
