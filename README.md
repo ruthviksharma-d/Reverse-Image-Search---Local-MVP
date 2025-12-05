@@ -1,11 +1,11 @@
 # 🖼️ Image Similarity Search – Minimal MVP Prototype
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20With-Flask-FF9800?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
-  <img src="https://img.shields.io/badge/Language-Python%203.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-MobileNetV2-009688?style=for-the-badge&logo=tensorflow&logoColor=white" alt="MobileNetV2 Badge"/>
-  <img src="https://img.shields.io/badge/Offline-Ready-success?style=for-the-badge&logo=cachet&logoColor=white" alt="Offline Badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="MIT Badge"/>
+  <img src="https://img.shields.io/badge/Built%20With-Flask-FF9800?style=flat&logo=flask&logoColor=white" alt="Flask Badge"/>
+  <img src="https://img.shields.io/badge/Language-Python%203.8+-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-MobileNetV2-009688?style=flat&logo=tensorflow&logoColor=white" alt="MobileNetV2 Badge"/>
+  <img src="https://img.shields.io/badge/Offline-Ready-success?style=flat&logo=cachet&logoColor=white" alt="Offline Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=flat" alt="MIT Badge"/>
 </p>
 
 ---
