@@ -146,10 +146,14 @@ sequenceDiagram
 ## 🎉 Results Preview
 
 <p align="center">
+  Opening UI <br>
   <img src="results/opening%20ui.png" width="700"><br>
+  Result when an apple image is clicked - <br>
   <img src="results/search%20result.png" width="700"><br>
+  Result when a banana image is clicked - <br>
   <img src="results/search%20result%202.png" width="700"><br>
-  <img src="results/search%20by%20name.png" width="700">
+  Result when searched with name - <br>
+  <img src="results/search%20by%20name.png" width="500">
 </p>
 
 ---
