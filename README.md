@@ -145,13 +145,12 @@ sequenceDiagram
 
 ## 🎉 Results Preview
 
-![Opening UI](results/opening%20ui.png)
-
-![Search by Name](results/search%20by%20name.png)
-
-![Search Result](results/search%20result.png)
-
-![Search Result 2](results/search%20result%202.png)
+<p align="center">
+  <img src="results/opening%20ui.png" width="400"><br>
+  <img src="results/search%20result.png" width="400"><br>
+  <img src="results/search%20result%202.png" width="400"><br>
+  <img src="results/search%20by%20name.png" width="400">
+</p>
 
 ---
 
