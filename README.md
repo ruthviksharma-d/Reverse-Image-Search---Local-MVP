@@ -143,6 +143,11 @@ sequenceDiagram
 
 ---
 
+## 🎉 Results Preview
+
+
+---
+
 ## 🛤️ Future Improvements
 
 - 🌐 Support remote galleries/cloud storage.
