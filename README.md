@@ -145,6 +145,15 @@ sequenceDiagram
 
 ## 🎉 Results Preview
 
+### Results
+
+![Opening UI](results/opening UI.png)
+
+![Search by Name](results/search by name.png)
+
+![Search Result](results/search result.png)
+
+![Search Result 2](results/search result 2.png)
 
 ---
 
